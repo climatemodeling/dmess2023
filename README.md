@@ -1,1 +1,1 @@
-[Tenth Workshop on Data Mining in Earth System Science (DMESS 2022)](https://climatemodeling.github.io/dmess22)
+[Eleventh Workshop on Data Mining in Earth System Science (DMESS 2023)](https://climatemodeling.github.io/dmess2023)
